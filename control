@@ -1,0 +1,9 @@
+Package: com.aquachocomint.bypassjb.trima
+Name: Trima Bypass Jailbreak
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: AquaChocomint <support.system@icloud.com>
+Author: AquaChocomint <support.system@icloud.com>
+Description: Bypass Jailbreak Detection for Trima
+Section: Tweaks
